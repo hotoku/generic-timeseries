@@ -7,6 +7,8 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+click = "^8.1.2"
+mdweek = "^1.2.4"
 
 [tool.poetry.dev-dependencies]
 
